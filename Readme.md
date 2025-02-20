@@ -1,7 +1,7 @@
 # Captain Kube - Kubernetes Admin Toolkit
 
 ![Captain Kube](https://img.shields.io/badge/Kubernetes-Admin%20Toolkit-blue)
-![Build Status](https://github.com/pirate0071/captain-kube/actions/workflows/pipeline.yml/badge.svg)
+![Build Status](https://github.com/pirate0071/captain-kube/actions/workflows/pipeline.yaml/badge.svg)
 ![License](https://img.shields.io/github/license/pirate0071/captain-kube)
 
 ## Overview
