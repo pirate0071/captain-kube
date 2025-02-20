@@ -1,0 +1,7 @@
+kubernetes
+click
+rich
+pytest
+setuptools
+wheel
+pyinstaller
